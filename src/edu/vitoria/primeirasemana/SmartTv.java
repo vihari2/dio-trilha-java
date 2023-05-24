@@ -4,7 +4,7 @@ public class SmartTv {
     //atributos 
     boolean ligada = false;
     int canal = 1;
-    int volume = 25; 
+    int volume = 2; 
     //metodo
     public void ligar() {
         ligada = true;
@@ -27,12 +27,12 @@ public class SmartTv {
     }
 
     public void diminuirVolume() {
-        volume++;
+        volume--;
 
     }
 
     public void aumentarVolume() {
-        volume--;
+        volume++;
 
     }
 }
