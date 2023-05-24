@@ -28,8 +28,8 @@ public class Usuario {
         smartTv.diminuirVolume();
         smartTv.mudarCanal(13);
         System.out.println("Novo Status -> Tv ligada? " + smartTv.ligada);
-        System.out.println("Volume atual " + smartTv.volume);
-        System.out.println("Canal atual " + smartTv.canal);
+        System.out.println("Novo Status -> Volume atual " + smartTv.volume); 
+        System.out.println("Novo Status -> Canal atual " + smartTv.canal);
 
     }
     
