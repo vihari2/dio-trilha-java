@@ -1,4 +1,4 @@
-package edu.vitoria.primeirasemana.edu.vitoria.primeirasemana;
+package edu.vitoria.primeirasemana;
 
 
 public class CaixaEletronico {

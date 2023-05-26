@@ -1,5 +1,5 @@
 // ExemploFor.java
-package edu.vitoria.primeirasemana.edu.vitoria.primeirasemana;
+package edu.vitoria.primeirasemana;
 public class ArrayFor {
     public static void main(String[] args) {
         String alunos[] = { "FELIPE", "JONAS", "JULIA", "MARCOS" };
